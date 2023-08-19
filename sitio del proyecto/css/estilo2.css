@@ -1,0 +1,16 @@
+body{
+    background-color: burlywood;
+}
+.menu{
+    font-family: Arial;
+    float: none;
+    color: black;
+    list-style-type: none;
+    display: flex;
+    background-color: wheat;
+    margin: 0%;
+    padding: 0%;
+    justify-content:space-around;
+    margin-right: 20px;
+    font-size: 25px;
+}

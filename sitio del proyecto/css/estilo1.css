@@ -1,0 +1,39 @@
+.menu{
+    font-family: Arial;
+    float: none;
+    color: black;
+    list-style-type: none;
+    display: flex;
+    background-color: wheat;
+    margin: 0%;
+    padding: 0%;
+    justify-content:space-around;
+    margin-right: 20px;
+    font-size: 25px;
+}
+body{
+    background-color: burlywood;
+    
+}
+p{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f2f2f2;
+    padding: 10px;
+    font-size: 25px;
+    font-family: Arial, sans-serif;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-size: 35px;
+    font-family: Arial, sans-serif;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-size: 35px;
+    font-family: Arial, sans-serif;
+}
